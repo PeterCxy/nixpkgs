@@ -60,6 +60,7 @@
   ./hardware/printers.nix
   ./hardware/raid/hpsa.nix
   ./hardware/steam-hardware.nix
+  ./hardware/system-76.nix
   ./hardware/tuxedo-keyboard.nix
   ./hardware/usb-wwan.nix
   ./hardware/onlykey.nix
@@ -637,7 +638,6 @@
   ./services/networking/gvpe.nix
   ./services/networking/hans.nix
   ./services/networking/haproxy.nix
-  ./services/networking/heyefi.nix
   ./services/networking/hostapd.nix
   ./services/networking/htpdate.nix
   ./services/networking/hylafax/default.nix
@@ -1027,6 +1027,7 @@
   ./virtualisation/podman.nix
   ./virtualisation/qemu-guest-agent.nix
   ./virtualisation/railcar.nix
+  ./virtualisation/spice-usb-redirection.nix
   ./virtualisation/virtualbox-guest.nix
   ./virtualisation/virtualbox-host.nix
   ./virtualisation/vmware-guest.nix

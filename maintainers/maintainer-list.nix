@@ -1224,6 +1224,12 @@
     githubId = 3043718;
     name = "Brett Lyons";
   };
+  bryanasdev000 = {
+    email = "bryanasdev000@gmail.com";
+    github = "bryanasdev000";
+    githubId = 53131727;
+    name = "Bryan Albuquerque";
+  };
   btlvr = {
     email = "btlvr@protonmail.com";
     github = "btlvr";
@@ -1438,6 +1444,12 @@
     github = "chaoflow";
     githubId = 89596;
     name = "Florian Friesdorf";
+  };
+  charvp = {
+    email = "nixpkgs@cvpetegem.be";
+    github = "charvp";
+    githubId = 42220376;
+    name = "Charlotte Van Petegem";
   };
   chattered = {
     email = "me@philscotted.com";
@@ -3137,6 +3149,12 @@
     githubId = 3217744;
     name = "Peter Ferenczy";
   };
+  ghuntley = {
+    email = "ghuntley@ghuntley.com";
+    github = "ghuntley";
+    githubId = 127353;
+    name = "Geoffrey Huntley";
+  };
   gila = {
     email = "jeffry.molanus@gmail.com";
     github = "gila";
@@ -3727,6 +3745,12 @@
     githubId = 5283991;
     name = "Jake Waksbaum";
   };
+  jamiemagee = {
+    email = "jamie.magee@gmail.com";
+    github = "JamieMagee";
+    githubId = 1358764;
+    name = "Jamie Magee";
+  };
   jammerful = {
     email = "jammerful@gmail.com";
     github = "jammerful";
@@ -4101,12 +4125,6 @@
     github = "JonathanReeve";
     githubId = 1843676;
     name = "Jonathan Reeve";
-  };
-  joncojonathan = {
-    email = "joncojonathan@gmail.com";
-    github = "joncojonathan";
-    githubId = 11414454;
-    name = "Jonathan Haddock";
   };
   jonringer = {
     email = "jonringer117@gmail.com";
@@ -5709,6 +5727,12 @@
     githubId = 117842;
     name = "Henri Bourcereau";
   };
+  mmesch = {
+    email = "mmesch@noreply.github.com";
+    github = "mmesch";
+    githubId = 2597803;
+    name = "Matthias Meschede";
+  };
   mmilata = {
     email = "martin@martinmilata.cz";
     github = "mmilata";
@@ -6088,6 +6112,16 @@
     github = "nico202";
     githubId = 8214542;
     name = "Nicolò Balzarotti";
+  };
+  NieDzejkob = {
+    email = "kuba@kadziolka.net";
+    github = "NieDzejkob";
+    githubId = 23580910;
+    name = "Jakub Kądziołka";
+    keys = [{
+      longkeyid = "rsa4096/0xE315A75846131564";
+      fingerprint = "E576 BFB2 CF6E B13D F571  33B9 E315 A758 4613 1564";
+    }];
   };
   NikolaMandic = {
     email = "nikola@mandic.email";
